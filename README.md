@@ -1,6 +1,11 @@
 # AlmaBetter's FullStack Data Science and AI Course <br/>Module-1: Introduction to Computer Programming (Python Programming)
 
 
+<br />
+#### Project Link (Google Colab Notebook)- [Colab notebook](https://colab.research.google.com/drive/1o9EngSWsDpL1UyChGLrtUGI-TH-BggLH?usp=drive_link)
+<br />
+
+
 Module-1 Completion Certificate-
 ![Module-1 Completion Certificate](https://github.com/NIKKHIL-B-LOSARWAR/AlmaBetter_Module1/assets/156224014/d7b610f2-f24c-4896-8785-e64e5c2437eb)
 <br />
@@ -58,5 +63,4 @@ Project Completion Certificate-
 <br />
 Project Certificate- [Link](https://certificates.almabetter.com/en/verify/53779675822979)
 <br />
-<br />
-Project Link (Google Colab Notebook)- [Colab notebook](https://colab.research.google.com/drive/1o9EngSWsDpL1UyChGLrtUGI-TH-BggLH?usp=drive_link)
+
