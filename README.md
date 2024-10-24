@@ -1,8 +1,11 @@
 # AlmaBetter's FullStack Data Science and AI Course <br/>Module-1: Introduction to Computer Programming (Python Programming)
 
+<br />
+<br />
+
+Project Link (Google Colab Notebook)- [Colab notebook](https://colab.research.google.com/drive/1o9EngSWsDpL1UyChGLrtUGI-TH-BggLH?usp=drive_link)
 
 <br />
-Project Link (Google Colab Notebook)- [Colab notebook](https://colab.research.google.com/drive/1o9EngSWsDpL1UyChGLrtUGI-TH-BggLH?usp=drive_link)
 <br />
 
 
