@@ -2,7 +2,7 @@
 
 
 <br />
-#### Project Link (Google Colab Notebook)- [Colab notebook](https://colab.research.google.com/drive/1o9EngSWsDpL1UyChGLrtUGI-TH-BggLH?usp=drive_link)
+Project Link (Google Colab Notebook)- [Colab notebook](https://colab.research.google.com/drive/1o9EngSWsDpL1UyChGLrtUGI-TH-BggLH?usp=drive_link)
 <br />
 
 
